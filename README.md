@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **jesearga@gmail.com**
 
-- ⚡ I’m interested **in all about coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
