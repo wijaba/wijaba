@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **each other to sharing about coding!**
 
-- 📝 I regularly write articles on [https://github.com/wijaba](https://github.com/wijaba)
-
 - 📫 How to reach me **jesearga@gmail.com**
 
 - ⚡ I’m officially **Manchester United fans**
