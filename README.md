@@ -1,9 +1,12 @@
 [![MasterHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)](https://i.pinimg.com)
-<h1 align="center">Hi 👋, I'm Nandaka Arga Wijaba 👋</h1>
+<<h1 align="center">Hi 👋, I'm Nandaka Arga</h1>
+- 🔭 I’m currently work on the [Project](https://wijaba.github.io/designature/)
 
-- 🌱 I’m currently learning **Tailwindcss and Laravel**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **each other to sharing about coding!**
+
+- 📝 I regularly upload projects on [https://github.com/wijaba](https://github.com/wijaba)
 
 - 📫 How to reach me **jesearga@gmail.com**
 
