@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)](https://i.pinimg.com)
 <h1 align="center">Hi 👋, I'm Nandaka Arga</h1>
-- 🔭 I’m currently work on the [Project](https://wijaba.github.io/designature/)
+- 🔭 I’m currently work on the [Project](https://wijaba.github.io/designature)
 
 - 🌱 I’m currently learning **TailwindCSS & React JS**
 
