@@ -2,15 +2,15 @@
 <h1 align="center">Hi 👋, I'm Nandaka Arga</h1>
 <h3 align="center">Passionate about web development!</h3>
 
-- 🔭 My first project is [R&B Custom Looks](https://wijaba.github.io/custom-looks/)
+🔭 My first project is [R&B Custom Looks](https://wijaba.github.io/custom-looks/)
 
-- 🌱 I’m currently learning **TailwindCSS & React JS**
+🌱 I’m currently learning **TailwindCSS & React JS**
 
-- 👯 I’m looking to collaborate on **each other to sharing about problem code and solved the problem together!**
+👯 I’m looking to collaborate on **each other to sharing about problem code and solved the problem together!**
 
-- 📫 How to reach me **jesearga@gmail.com**
+📫 How to reach me **jesearga@gmail.com**
 
-- ⚡ Fun fact **I am very happy with the calmness.**
+⚡ Fun fact **I am very happy with the calmness.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
