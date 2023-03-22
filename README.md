@@ -2,15 +2,20 @@
 <h1 align="center">Hi 👋, I'm Nandaka Arga</h1>
 <h3 align="center">Passionate about web development!</h3>
 
+- 🔭 My first project is [R&B Custom Looks](https://wijaba.github.io/custom-looks/)
+
 - 🌱 I’m currently learning **TailwindCSS & React JS**
 
+- 👯 I’m looking to collaborate on **each other to sharing about problem code and solved the problem together!**
+
 - 📫 How to reach me **jesearga@gmail.com**
+
+- ⚡ Fun fact **I am very happy with the calmness.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/influencheers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="influencheers" height="30" width="40" /></a>
 <a href="https://instagram.com/iwijaba.db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iwijaba.db" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iwijaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iwijaba" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
